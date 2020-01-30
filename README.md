@@ -1,2 +1,2 @@
 # Traffic-light-controller
-Controlling traffic signals in 4 directions using density of the traffic using verilog code
+Controlling traffic signals in 4 directions based on density of the traffic.
